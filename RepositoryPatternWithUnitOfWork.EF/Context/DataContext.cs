@@ -1,0 +1,16 @@
+﻿using Microsoft.EntityFrameworkCore;
+using RepositoryPatternWithUnitOfWork.Core.Models;
+
+namespace RepositoryPatternWithUnitOfWork.EF.Context
+{
+    public class DataContext : DbContext
+    {
+        public DataContext(DbContextOptions<DataContext> options) : base(options)
+        {
+
+        }
+        public DbSet<Author> Authors { get; set; }
+        public DbSet<Book> Books { get; set; }
+
+    }
+}

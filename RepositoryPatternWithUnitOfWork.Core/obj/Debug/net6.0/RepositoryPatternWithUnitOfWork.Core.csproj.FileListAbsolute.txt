@@ -1,0 +1,12 @@
+E:\Development\Projects\Net Core\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.Core\bin\Debug\net6.0\RepositoryPatternWithUnitOfWork.Core.deps.json
+E:\Development\Projects\Net Core\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.Core\bin\Debug\net6.0\RepositoryPatternWithUnitOfWork.Core.dll
+E:\Development\Projects\Net Core\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.Core\bin\Debug\net6.0\RepositoryPatternWithUnitOfWork.Core.pdb
+E:\Development\Projects\Net Core\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.Core\obj\Debug\net6.0\RepositoryPatternWithUnitOfWork.Core.csproj.AssemblyReference.cache
+E:\Development\Projects\Net Core\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.Core\obj\Debug\net6.0\RepositoryPatternWithUnitOfWork.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\Projects\Net Core\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.Core\obj\Debug\net6.0\RepositoryPatternWithUnitOfWork.Core.AssemblyInfoInputs.cache
+E:\Development\Projects\Net Core\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.Core\obj\Debug\net6.0\RepositoryPatternWithUnitOfWork.Core.AssemblyInfo.cs
+E:\Development\Projects\Net Core\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.Core\obj\Debug\net6.0\RepositoryPatternWithUnitOfWork.Core.csproj.CoreCompileInputs.cache
+E:\Development\Projects\Net Core\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.Core\obj\Debug\net6.0\RepositoryPatternWithUnitOfWork.Core.dll
+E:\Development\Projects\Net Core\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.Core\obj\Debug\net6.0\refint\RepositoryPatternWithUnitOfWork.Core.dll
+E:\Development\Projects\Net Core\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.Core\obj\Debug\net6.0\RepositoryPatternWithUnitOfWork.Core.pdb
+E:\Development\Projects\Net Core\RepositoryPatternWithUnitOfWork\RepositoryPatternWithUnitOfWork.Core\obj\Debug\net6.0\ref\RepositoryPatternWithUnitOfWork.Core.dll
